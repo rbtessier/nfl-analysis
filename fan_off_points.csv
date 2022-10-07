@@ -1,0 +1,13 @@
+﻿stat_code,Statistic,Points
+pass_yds,Passing Yards (Pass Yd),0.04
+pass_td,Passing Touchdowns (Pass TD),4
+pass_int,Passing Interceptions (Int),-2
+rush_yds,Rushing Yards (Rush Yd),0.1
+rush_td,Rushing Touchdowns (Rush TD),6
+rec,Receptions (Rec),1
+rec_yds,Receiving Yards (Rec Yd),0.1
+rec_td,Receiving Touchdowns (Rec TD),6
+total_ret_td,Return Touchdowns,6
+offensive_fumble_recovery_td,Own Fumble Return TDs (Fum Ret TD),6
+fumbles_lost,Fumbles Lost (Fum Lost),-2
+two_point_conv,Two Pt Conversions (2Pt),2
